@@ -25,7 +25,7 @@ const initializeProvider = async () => {
 // fees to pay: 0.00002 eth
 // total eth: 0.00991162248 eth
 // to transfer:  0.00889 eth
-// addr_to: 0xbb256f544b8087596e8e6cdd7fe9726cc98cb400
+// addr_to: 0xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 const runZKTransfer = async () => {
   const { zkWallet } = await initializeProvider();
